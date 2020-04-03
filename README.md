@@ -35,7 +35,7 @@ XGBoost, LightGBM, CatBoost / Voting, Stacking
 ## Result & Improvements
 
 ### ▶ Result
-최종: Final Stage 진출 / 리더보드 등록 기준 총 352팀 중 89등 기록(0.36718, logloss)  
+최종: Regular Stage Ⅱ 진출 / 리더보드 등록 기준 총 352팀 중 89등 기록(0.36718, logloss)  
 [(Dacon 리더보드)](https://dacon.io/competitions/official/235573/leaderboard/)
 
 ### ▶ Improvements
